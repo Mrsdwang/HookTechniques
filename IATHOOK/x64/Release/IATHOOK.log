@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+F:\HookTool\IATHOOK\dllmain.cpp(63,20): warning C4477: “printf”: 格式字符串“%I64x”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“PIMAGE_THUNK_DATA”
+F:\HookTool\IATHOOK\dllmain.cpp(117,5): error C2360: “test”的初始化操作由“case”标签跳过
+F:\HookTool\IATHOOK\dllmain.cpp(110): message : 参见“test”的声明
+F:\HookTool\IATHOOK\dllmain.cpp(119,5): error C2360: “test”的初始化操作由“case”标签跳过
+F:\HookTool\IATHOOK\dllmain.cpp(110): message : 参见“test”的声明
+F:\HookTool\IATHOOK\dllmain.cpp(121,5): error C2360: “test”的初始化操作由“case”标签跳过
+F:\HookTool\IATHOOK\dllmain.cpp(110): message : 参见“test”的声明

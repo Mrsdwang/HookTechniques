@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+F:\HookTool\InlineHook_0x5\dllmain.cpp(28,58): warning C4311: “类型强制转换”: 从“PROC”到“ULONG”的指针截断
+F:\HookTool\InlineHook_0x5\dllmain.cpp(28,58): warning C4302: “类型强制转换”: 从“PROC”到“ULONG”截断
+  InlineHook_0x5.vcxproj -> F:\HookTool\InlineHook_0x5\x64\Debug\InlineHook_0x5.dll
